@@ -1,0 +1,136 @@
+header{
+    height: 40px;
+   
+}
+#image
+{
+    background-color: gray  ;
+    height:30px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+p{
+        margin-block-start:0px ;
+        margin-block-end: 0px;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    color: black;
+    padding: 4px;
+    font-family: Verdana;
+    
+}
+img{
+    height:250px;
+    width:100%;
+    border-radius: 4px 4px 0px 0px;
+}
+body{
+    margin: 0px;
+}
+#info{
+    margin-left:6%;
+    width:300px;
+    height: fit-content;
+    background-color: white;
+    border-radius: 4px;
+    
+}
+#about{
+    margin-right:10px;
+    margin-left:5%;
+    background-color: white;
+    height:max-content;
+    width:35%;
+    border-radius: 4px;
+}
+#main{
+    margin-right:30px;
+    background-color: white;
+    width:20%;
+    border-radius: 4px;
+    height: fit-content;
+}
+#bodi{
+    margin-top: 9px;    
+    display: flex;
+    flex-direction: row;
+}
+#border{
+    margin-top: 0px;
+    border-radius:3px 3px 0px 0px;
+    background-color: blueviolet;
+    padding-left:0px;
+    height:16px;
+}
+#border1{
+    margin-top: 0px;
+    border-radius:3px 3px 0px 0px;
+    background-color: rgb(70, 127, 188);
+    padding-left:0px;
+    height:16px;
+}
+
+
+#diu{
+    font-family:'Lucida Sans';
+    margin-top:0px;
+    font-size: 20px;
+    text-align: center;
+}
+body{
+    background-color:#EEEEEE;
+}
+#par
+{
+    font-family: Verdana;
+    padding:20px 20px;            
+}
+#edit-view{
+    padding:20px 20px 0px 0px;
+    margin-left: 5%;
+    font-size: 15px;
+    
+}
+#display{
+    padding:20px 20px 0px 0px;
+    margin-left: 5%;
+    font-size: 15px;
+    
+}
+#display p{
+    font-family:Cambria;
+    padding: 20px;
+
+}
+#edit-view p{
+    font-family:Cambria;
+}
+button{
+    color:rgb(70, 127, 188);
+    border:1px solid rgb(70, 127, 188);
+    border-color: rgb(70, 127, 188);
+    background-color: white;
+    padding:10px;
+    border-radius: 4px;
+    margin-top: 10%;
+    margin-left: 31%;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+input{
+    border: 1px solid black;
+    border-radius: 2px;
+    margin:10px 0px 10px 0px;
+    padding:10px;
+    }
+#font{
+    font-family:Courier;
+    padding-right: 4px;
+
+}
+#edit-view{
+    display: none;
+}
+
